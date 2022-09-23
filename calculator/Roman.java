@@ -36,10 +36,12 @@ class Roman {
         return "";
     }
 
+    // Converting Roman Numbers to Arabic
     private static int romanToArabic(String roman) {
         return (Arrays.asList(listOfRoman).indexOf(roman) + 1);
     }
 
+    // Converting Arabic Numbers to Roman
     private static String arabicToRoman(int arabic) {
         try {
             return listOfRoman[arabic-1];
