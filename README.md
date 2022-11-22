@@ -1,5 +1,5 @@
 # simpleConsCalc
-## A simple console project for for Kata Academy test task
+## A simple calculator console project, but with some rules
 
 > ### Описание
 > Создай консольное приложение “Калькулятор”. Приложение должно читать из консоли введенные пользователем строки, числа, арифметические операции проводимые между ними и выводить в консоль результат их выполнения.
